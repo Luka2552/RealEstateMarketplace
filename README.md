@@ -21,11 +21,6 @@ This project is a Real Estate Marketplace showcasing various properties for buyi
 
   - [@chakra-ui/react](https://chakra-ui.com/) - A simple, modular, and accessible component library for React applications.
 
-- **Styling:**
-
-  - [@emotion/react](https://emotion.sh/docs/introduction) - CSS-in-JS library for styling React components.
-  - [@emotion/styled](https://emotion.sh/docs/introduction) - Styled components for Emotion.
-
 - **HTTP Requests:**
 
   - [axios](https://axios-http.com/) - A promise-based HTTP client for the browser and Node.js.
